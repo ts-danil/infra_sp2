@@ -10,6 +10,14 @@
 Добавлять отзывы, комментарии и ставить оценки могут только аутентифицированные пользователи.
 ```
 ### Технологии в проекте
+- [Python 3.7 ](https://www.python.org/downloads/release/python-379/)
+- [Django REST framework 3.12](https://www.django-rest-framework.org/community/3.12-announcement/)
+- [Simple JWT-аутентификация с реализацией через код подтверждения](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
+- [PostgreSQL](https://postgrespro.ru/docs/postgresql/12/)
+- [Docker](https://docs.docker.com/engine/reference/builder/#from)
+- [nginx](https://nginx.org/en/docs/)
+- [Gunicorn](https://docs.gunicorn.org/en/stable/)
+- [GIT](https://git-scm.com/docs/git)
 
 ### Шаблон наполнения env-файла
 ```
